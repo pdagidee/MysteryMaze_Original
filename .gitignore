@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Gradle
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
